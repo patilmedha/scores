@@ -7,4 +7,4 @@ if not scores:
 else:
     print("Sum:", sum(scores))
     print("Average:", sum(scores) / len(scores))
-    
+    print("Maximum:", max(scores))
